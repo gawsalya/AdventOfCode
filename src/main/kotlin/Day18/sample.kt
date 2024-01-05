@@ -1,3 +1,5 @@
+package Day18
+
 val sampleData = """
     R 6 (#70c710)
     D 5 (#0dc571)
