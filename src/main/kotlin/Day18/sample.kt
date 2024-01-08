@@ -15,4 +15,4 @@ val sampleData = """
     U 3 (#a77fa3)
     L 2 (#015232)
     U 2 (#7a21e3)
-""".trimIndent()
+""".trimIndent().split("\n")
